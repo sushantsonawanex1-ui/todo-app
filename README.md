@@ -24,7 +24,7 @@ A clean and responsive Todo App built using HTML, CSS, and JavaScript. It allows
 
 ## 📸 Screenshot
 
-(Add your screenshot here later)
+todo-app.png
 
 ---
 
